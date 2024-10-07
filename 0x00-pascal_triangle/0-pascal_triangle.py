@@ -9,7 +9,7 @@ def pascal_triangle(n: int):
     :param n: an integer to determine the pascal triangle
     :return: Returns an empty list if n <= 0
     """
-    numbers: list = [[1]]
+    numbers = [[1]]
     if n <= 0:
         return []
     for i in range(1, n):
@@ -23,4 +23,3 @@ def pascal_triangle(n: int):
         numbers.append(new)
 
     return numbers
-
