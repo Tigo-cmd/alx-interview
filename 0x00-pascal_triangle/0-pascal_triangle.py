@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-"""
-implements the pascals triangle algorithm
-"""
+"""implements the pascals triangle algorithm """
 
 
 def pascal_triangle(n: int) -> list[list[int]]:
