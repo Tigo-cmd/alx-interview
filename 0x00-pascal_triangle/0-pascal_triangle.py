@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""module"""
+"""
+pascal triangle module documentation
+"""
 
 
 def pascal_triangle(n: int) -> list[list[int]]:
