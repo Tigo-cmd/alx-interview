@@ -23,3 +23,4 @@ def pascal_triangle(n: int) -> list[list[int]]:
         numbers.append(new)
 
     return numbers
+
