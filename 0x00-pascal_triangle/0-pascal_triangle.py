@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-""" implements the pascals triangle algorithm
+""" module that implements the pascals triangle algorithm
 Must Know
 
 To successfully complete this project, you should revise the following Python concepts:
@@ -46,7 +46,7 @@ By revisiting these concepts, you will be well-prepared to tackle the challenges
 
 def pascal_triangle(n: int) -> list[list[int]]:
     """
-    prints out the pascal's triangle sequence
+    this function prints out the pascal's triangle sequence
 
     :param n: an integer to determine the pascal triangle
     :return: Returns an empty list if n <= 0
