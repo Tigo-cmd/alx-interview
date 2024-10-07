@@ -1,7 +1,7 @@
 #!/usr/bin/python3
+""" implements the pascals triangle algorithm
 
-""" module that implements the pascals triangle algorithm
-Must Know
+This Module Must Knows...
 
 To successfully complete this project, you should revise the following Python concepts:
 
@@ -41,6 +41,7 @@ To successfully complete this project, you should revise the following Python co
         Evaluate and apply optimizations to improve the performance of the solution.
 
 By revisiting these concepts, you will be well-prepared to tackle the challenges of implementing Pascal’s Triangle in Python, applying both your mathematical understanding and programming skills to develop an efficient and effective solution.
+
 """
 
 
