@@ -2,7 +2,7 @@
 """Pascal triangle"""
 
 
-def pascal_triangle(n: int) -> list[list[int]]:
+def pascal_triangle(n: int):
     """
     this function prints out the pascal's triangle sequence
 
