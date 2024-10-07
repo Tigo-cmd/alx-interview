@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Pascal triangle"""
+"""Pascal triangle implementation"""
 
 
 def pascal_triangle(n: int) -> list[list[int]]:
